@@ -1,1 +1,0 @@
-# restaurant-config-git-server
